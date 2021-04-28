@@ -5,12 +5,15 @@ Network Scanner with GUI (PyQt) was written and used in combination with [dispy]
 ## GIF showing capabilities of GUI 
 To start the scanner run **scan.py** script with elevated privilege on windows
 
+![GUI](https://user-images.githubusercontent.com/51490354/116480060-f551ef80-a880-11eb-9b55-2eb83ca4c9b7.gif)
+
+
 ## Prerequisites
 
 Python >= 3.7, PyQt5, numpy, pandas, scapy
 
 The following command will install the packages:
-'''
+```shell
 pip install -r requirements.txt
-'''
+```
 Before running this command put **requirements.txt** in the directory where the command will be executed. If it is in another directory, specify the path.
